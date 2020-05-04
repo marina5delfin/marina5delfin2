@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{1D0A46C2-2CE2-4954-BD57-F5F982D428E1}'];loadHandler&&loadHandler(47, '<div id="spr0_1cd026e"><div id="spr1_1cd026e" class="kern slide"><img id="img1_1cd026e" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cd026e" class="kern slide"><div id="spr3_1cd026e" style="left:0.002px;top:0.001px;"><img id="img0_1cd026e" src="data/img74.jpg" width="960" height="540" alt="Изображение выглядит как объект\
+\
+Описание создано с высокой степенью достоверности" style="left:-0.001px;top:-0px;"/></div></div></div>');})();

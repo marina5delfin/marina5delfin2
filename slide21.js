@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{1D0A46C2-2CE2-4954-BD57-F5F982D428E1}'];loadHandler&&loadHandler(20, '<div id="spr0_1c3632d"><div id="spr1_1c3632d" class="kern slide"><img id="img1_1c3632d" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1c3632d" class="kern slide"><div id="spr3_1c3632d" style="left:0.002px;top:0.001px;"><img id="img0_1c3632d" src="data/img33.jpg" width="960" height="540" alt="Изображение выглядит как небо, человек, мужчина, носит\
+\
+Описание создано с очень высокой степенью достоверности" style="left:-0.001px;top:-0px;"/></div></div></div>');})();

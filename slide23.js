@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{1D0A46C2-2CE2-4954-BD57-F5F982D428E1}'];loadHandler&&loadHandler(22, '<div id="spr0_1c3681e"><div id="spr1_1c3681e" class="kern slide"><img id="img1_1c3681e" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1c3681e" class="kern slide"><div id="spr3_1c3681e" style="left:0.002px;top:0.001px;"><img id="img0_1c3681e" src="data/img35.png" width="960" height="540" alt="Изображение выглядит как текст, книга, человек, фотография\
+\
+Описание создано с очень высокой степенью достоверности" style="left:-0.001px;top:-0px;"/></div></div></div>');})();
